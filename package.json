@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/fernandogm-source/githubActions_examples/issues"
   },
-  "homepage": "https://github.com/fernandogm-source/githubActions_examples#readme"
+  "homepage": "https://github.com/fernandogm-source/githubActions_examples#readme",
+  "dependencies": {
+    "eslint-config-standard": "^17.1.0"
+  }
 }
